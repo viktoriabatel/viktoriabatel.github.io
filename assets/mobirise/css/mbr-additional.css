@@ -1472,3 +1472,26 @@ body {
     width: 100% !important;
   }
 }
+.cid-qE0y73Fq6v {
+  background: #ffffff;
+}
+.cid-qE0y73Fq6v .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-qE0y73Fq6v .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qE0y73Fq6v figcaption {
+  position: relative;
+}
+.cid-qE0y73Fq6v figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qE0y73Fq6v .image-block {
+    width: 100% !important;
+  }
+}
