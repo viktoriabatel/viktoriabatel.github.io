@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Мой Сайт",
+    "name": "Презентация",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 34,
@@ -27,20 +27,22 @@
         "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
       },
       "additionalSetColors": [
         "#d8fcfa",
         "#5fffeb"
       ]
-    }
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/photo-2017-12-17-02-38-34-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Главная",
+        "title": "Бизнес с Батэль",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
