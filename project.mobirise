@@ -43,7 +43,8 @@
     "favicon": "@PROJECT_PATH@/assets/images/photo-2017-12-17-02-38-34-128x128.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "Иконка": "@PROJECT_PATH@/assets/images/photo-2017-12-17-02-38-34-128x128.png"
   },
   "pages": {
     "index.html": {
