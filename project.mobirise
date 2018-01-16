@@ -44,7 +44,8 @@
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "Иконка": "@PROJECT_PATH@/assets/images/photo-2017-12-17-02-38-34-128x128.png"
+    "Иконка": "@PROJECT_PATH@/assets/images/photo-2017-12-17-02-38-34-128x128.png",
+    "cookiesAlert": "Мы используем cookies, чтобы узнать Вас среди многих других пользователей нашего сайта.  Прочтите <a href='privacy.html'>нашу политику конфиденциальности.</a>."
   },
   "pages": {
     "index.html": {
