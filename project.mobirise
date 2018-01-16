@@ -601,6 +601,39 @@
           "_params": {}
         },
         {
+          "_params": {
+            "token": "5423395652.c65135b.b5432d2223fa43d2bc62875a1f4f4796",
+            "showTitle": true,
+            "layoutGridRadio": false,
+            "imagesPerRowGrid": "5",
+            "rows": "2",
+            "showMoreButton": true,
+            "layoutSliderRadio": true,
+            "imagesPerRowSlider": "5",
+            "spacing": "5",
+            "fullWidth": true,
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColorRadio": true,
+            "bgColor": "#fcebfb",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
+            "overlay": false,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.6
+          },
+          "title": "МОЙ ИНСТАГРАМ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Показать больше</a>",
+          "display2": "display-5",
+          "display4": "display-4",
+          "alias": "instagram-feed",
+          "_tags": [
+            "Доп."
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-10"
+        },
+        {
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
@@ -663,39 +696,6 @@
           "_global": false,
           "_once": false,
           "_params": {}
-        },
-        {
-          "_params": {
-            "token": "5423395652.c65135b.b5432d2223fa43d2bc62875a1f4f4796",
-            "showTitle": true,
-            "layoutGridRadio": false,
-            "imagesPerRowGrid": "5",
-            "rows": "2",
-            "showMoreButton": true,
-            "layoutSliderRadio": true,
-            "imagesPerRowSlider": "5",
-            "spacing": "5",
-            "fullWidth": true,
-            "paddingTop": "1",
-            "paddingBottom": 1,
-            "bgColorRadio": true,
-            "bgColor": "#fcebfb",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
-            "overlay": false,
-            "overlayColor": "#efefef",
-            "overlayOpacity": 0.6
-          },
-          "title": "МОЙ ИНСТАГРАМ",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Показать больше</a>",
-          "display2": "display-5",
-          "display4": "display-4",
-          "alias": "instagram-feed",
-          "_tags": [
-            "Доп."
-          ],
-          "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-10"
         },
         {
           "_styles": {
