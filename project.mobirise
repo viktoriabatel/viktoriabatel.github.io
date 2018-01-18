@@ -31,13 +31,13 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
+        "#070707",
         "#d1f3ff",
         "#fcebfb",
         "#fff1ef",
         "#e1fffc",
         "#e4fbdc",
-        "#d8fcfa",
-        "#5fffeb"
+        "#d8fcfa"
       ]
     },
     "favicon": "@PROJECT_PATH@/assets/images/photo-2017-12-17-02-38-34-128x128.png",
@@ -189,7 +189,7 @@
               "font-style": "italic"
             },
             "B": {
-              "color": "#232323"
+              "color": "#070707"
             },
             "P": {
               "color": "#232323",
@@ -399,11 +399,11 @@
           "_name": "header3",
           "_customHTML": "<section class=\"header3\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Во весь экран\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Отступ сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Отступ снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n    \n        <input type=\"checkbox\" title=\"Показать заголовок\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Показать подзаголовок\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Показать текст\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Показать кнопку (и)\" name=\"showButtons\">\n        <input type=\"range\" inline title=\"Размер медиа\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"100\">\n        <input type=\"checkbox\" title=\"Медиа слева/справа\" name=\"reverseContent\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Фоновое изображение\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Цвет фона\" value=\"#149dcc\" selected>\n            <input type=\"video\" title=\"Фоновое видео\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Градиент\" name=\"gradientBg\" condition=\"bg.type == 'color'\" checked>\n        <input type=\"color\" title=\"Цвет #2\" name=\"color2\" value=\"#000000\" condition=\"gradientBg\">\n        \n        <input type=\"checkbox\" title=\"Перекрытие\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Выберите цвет\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Непрозрач.\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/1330503539-2-1701x1129.jpg\" alt=\"Mobirise\" title>\n            </div>\n\n            <div class=\"media-content\">\n                <h1 class=\"mbr-section-title mbr-white pb-3 mbr-fonts-style\" mbr-if=\"showTitle\" mbr-theme-style=\"display-5\">ПОЧЕМУ ИМЕННО НАША КОМАНДА?</h1>\n                <h3 class=\"mbr-section-subtitle align-left mbr-white mbr-light pb-3 mbr-fonts-style\" mbr-if=\"showSubTitle\" mbr-theme-style=\"display-2\">\n                    Красивейшие сайты\n                </h3>\n                <div class=\"mbr-section-text mbr-white pb-3 \">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-theme-style=\"display-7\"><b>Онлайн - школа. \n</b><br>Даже если вы ранее не работали в сетевом бизнесе, вы опасаетесь, что у вас может не получится, мы готовы вас взять в нашу команду. Почему вам стоит попасть именно к нам? Мы научим вас рекламировать Батэль в интернете, строить структуру и прийти к первым деньгам за короткие сроки. У нас есть своя онлайн - школа с пошаговыми уроками. Лучшие дистрибьюторы смогут получить доступ к курсам, которые прошли мы сами и отдали за них немалые суммы. \n<br><b>Помощь с рекрутингом. \n</b><br>Если мы видим, что новичок старается рекрутировать, делать заказы, мы помогаем ему выстраивать его структуру. То есть отдаём свои регистрации ему. Нам не жалко, нам важнее товарооборот и успех каждого нашего партнёра. \n<br><b><i>Мы единственный интернет</i></b> - проект на сегодняшнее время в компании, имеющий полноценную качественную систему обучения! У вас есть отличная возможность быть среди первых лидеров интернет индустрии Батэль.</p>\n                </div>\n                <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-md btn-primary\" href=\"https://mobiriz.store\">Подробнее</a>\n                    <a class=\"btn btn-md btn-white-outline\" href=\"https://mobiriz.store\">Демо</a>\n                </div>\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_cid": "qH3UzJScRh",
+          "_anchor": "header3-1c",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "header3-1c"
+          "_params": {}
         },
         {
           "_styles": {
