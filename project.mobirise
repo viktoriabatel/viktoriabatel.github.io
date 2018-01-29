@@ -41,7 +41,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "favicon": "@PROJECT_PATH@/assets/images/photo-2018-01-29-08-31-30-128x52.png",
+    "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "screenshot": "screenshot.png"
@@ -50,7 +50,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Главная",
+        "title": "Бизнес с компанией Batel",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
