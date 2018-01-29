@@ -481,10 +481,10 @@
               "color": "#8adefb"
             },
             ".mbr-text, .mbr-section-btn B": {
-              "color": "#8adefb"
+              "color": "#e2adff"
             },
             "H1": {
-              "color": "#8adefb"
+              "color": "#e2adff"
             }
           },
           "_cid": "qHOXBWU11D",
