@@ -731,10 +731,10 @@
               }
             },
             ".section-text B": {
-              "color": "#8adefb"
+              "color": "#84f4f6"
             },
             ".section-text DIV": {
-              "color": "#8adefb"
+              "color": "#84f4f6"
             }
           },
           "_name": "content10",
@@ -757,13 +757,13 @@
               "background-image": "url(@bg-value)"
             },
             ".mbr-section-subtitle DIV": {
-              "color": "#3c5bed"
+              "color": "#232323"
             },
             "H2": {
-              "color": "#3c5bed"
+              "color": "#232323"
             },
             ".mbr-section-subtitle I": {
-              "color": "#3c5bed"
+              "color": "#232323"
             }
           },
           "_name": "content5",
