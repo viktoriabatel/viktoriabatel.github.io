@@ -788,10 +788,10 @@
               "background-image": "url(@bg-value)"
             },
             "B": {
-              "color": "#8adefb"
+              "color": "#84f4f6"
             },
             "P": {
-              "color": "#8adefb"
+              "color": "#84f4f6"
             }
           },
           "_name": "header1",
