@@ -529,13 +529,16 @@
               }
             },
             "H1": {
-              "color": "#3c5bed"
+              "color": "#4f4943"
             },
             "P": {
               "color": "#3c5bed"
             },
             ".icon-description": {
-              "color": "#3c5bed"
+              "color": "#4f4943"
+            },
+            "B": {
+              "color": "#4f4943"
             }
           },
           "_name": "header8",
@@ -583,7 +586,7 @@
               "color": "#232323"
             },
             "B": {
-              "color": "#3c5bed"
+              "color": "#4f4943"
             }
           },
           "_name": "header5",
@@ -653,7 +656,7 @@
               }
             },
             "B": {
-              "color": "#3c5bed"
+              "color": "#4f4943"
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#232323"
@@ -685,6 +688,9 @@
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#232323"
+            },
+            "B": {
+              "color": "#4f4943"
             }
           },
           "_name": "header5",
@@ -715,7 +721,7 @@
               "color": "#232323"
             },
             "B": {
-              "color": "#3c5bed"
+              "color": "#4f4943"
             }
           },
           "_name": "header5",
@@ -740,7 +746,7 @@
               "background-image": "url(@bg-value)"
             },
             "B": {
-              "color": "#3c5bed"
+              "color": "#4f4943"
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#232323"
