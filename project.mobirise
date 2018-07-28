@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-07-28_1312",
+    "name": "Бизнес с Батэль. Виктория Малюта",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -37,6 +37,12 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/128x91.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "siteUrl": "undefined",
     "uniqCompNum": 13,
     "versionPublish": "4.8.1"
   },
@@ -44,7 +50,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Бизнес с Батэль. Виктория Малюта",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
