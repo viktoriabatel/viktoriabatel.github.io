@@ -1373,7 +1373,7 @@ body {
   display: none;
 }
 .cid-qZ5AmGcazs {
-  background-image: url("../../../assets/images/person-woman-apple-hotel-1-1-1920x1281.jpg");
+  background-image: url("../../../assets/images/person-woman-apple-hotel-1-1-1920x12810.jpg");
 }
 .cid-qZ5AmGcazs .mbr-media span {
   font-size: 48px;
@@ -1679,6 +1679,38 @@ body {
   .cid-qZ5Wh6yFww .btn {
     font-size: 20px !important;
   }
+}
+.cid-qZ5W1fStwY {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #232323;
+}
+.cid-qZKwUaRJWs {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+}
+.cid-qZKwUaRJWs .title {
+  margin-bottom: 2rem;
+}
+.cid-qZKwUaRJWs .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qZKwUaRJWs a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-qZKwUaRJWs a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-qZKwUaRJWs .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
+}
+.cid-qZKwUaRJWs .input-group-btn {
+  display: block;
+  text-align: center;
 }
 .cid-qZ5W1fStwY {
   padding-top: 15px;
