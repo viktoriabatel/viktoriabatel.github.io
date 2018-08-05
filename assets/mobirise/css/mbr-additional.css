@@ -1688,7 +1688,7 @@ body {
 .cid-qZKwUaRJWs {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+  background-image: url("../../../assets/images/luxfon.com-5987-1920x1080.jpg");
 }
 .cid-qZKwUaRJWs .title {
   margin-bottom: 2rem;
@@ -1711,6 +1711,12 @@ body {
 .cid-qZKwUaRJWs .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-qZKwUaRJWs H2 {
+  color: #fff0f0;
+}
+.cid-qZKwUaRJWs LABEL {
+  color: #fff0f0;
 }
 .cid-qZ5W1fStwY {
   padding-top: 15px;
